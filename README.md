@@ -1,6 +1,6 @@
 # streaming-03-rabbitmq
 
-![image info](C:\Users\St0bs\Pictures\Screenshots\DoubleBarreledAction.png)
+![image](DoubleBarreledAction.png)
 
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
