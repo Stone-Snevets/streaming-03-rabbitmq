@@ -2,6 +2,9 @@
 
 Message listener 
 
+Name: Solomon Stevens
+Date: May 17th 2024
+
 Description:
 This script continuously listens for messages on a named queue.
 This terminal must be open and dedicated to this process. 

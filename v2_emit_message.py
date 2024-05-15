@@ -2,6 +2,9 @@
 
 Message sender / emitter 
 
+Name: Solomon Stevens
+Date: May 17th 2024
+
 Description:
 This script sends one message on a named queue.
 It will execute and finish. 

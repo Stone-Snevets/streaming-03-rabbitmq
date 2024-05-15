@@ -3,6 +3,9 @@
 Listens for messages on the queue.
 This process runs continuously. 
 
+Name: Solomon Stevens
+Date: May 17th 2024
+
 Approach
 ---------
 Simple - one producer / one consumer.
